@@ -1,3 +1,6 @@
+# 💫 About Me:
+I am a Junior Software and Web Developer looking to develop breadth across many branches of Computer Science. I am currently pursuing my Associates in Computer Science. Most recently, I've been working on my portfolio website, check it out!
+
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/malachivalenz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:malachi@malachivalenzuela.com) 
