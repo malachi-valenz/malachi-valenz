@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Junior Software and Web Developer looking to develop breadth across many branches of Computer Science. I am currently pursuing my Associates in Computer Science. Most recently, I've been working on my portfolio website, check it out!
+I am a Junior Software and Web Developer looking to develop breadth across many branches of Computer Science. I am currently pursuing my Associates in Computer Science. Currently working on an air quality app (can't share more yet!). Check out my works!
 
 
 ## 🌐 Socials:
